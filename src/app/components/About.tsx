@@ -20,11 +20,11 @@ export function About() {
           >
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl blur-2xl opacity-20 animate-pulse"></div>
-              <img
-               src="/Riya_portfolio/riya_2.jpeg"
-                alt="Riya"
-                className="relative rounded-2xl shadow-2xl w-full aspect-square object-cover"
-              />
+             <img
+  src="/Riya_portfolio/riya_2.jpeg"
+  alt="Riya"
+  className="relative rounded-2xl shadow-2xl w-full aspect-square object-cover"
+/>
             </div>
           </motion.div>
 
