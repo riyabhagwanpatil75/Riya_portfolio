@@ -49,7 +49,7 @@ export function Contact() {
   target="_blank"
   className="px-8 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:text-slate-900 transition-colors"
 >
-  Download Resume
+View Resume
 </motion.a>
         </motion.div>
 
