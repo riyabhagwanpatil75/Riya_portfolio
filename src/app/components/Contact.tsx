@@ -45,7 +45,7 @@ export function Contact() {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            href="src/app/components/ui/Riya_Resume.pdf"
+            href="public/Riya_Resume.pdf"
             className="px-8 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:text-slate-900 transition-colors"
           >
             Download Resume
