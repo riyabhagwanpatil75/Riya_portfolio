@@ -42,14 +42,15 @@ export function Contact() {
             Send Email
           </motion.a>
 
-          <motion.a
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            href="public/Riya_Resume.pdf"
-            className="px-8 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:text-slate-900 transition-colors"
-          >
-            Download Resume
-          </motion.a>
+         <motion.a
+  whileHover={{ scale: 1.05 }}
+  whileTap={{ scale: 0.95 }}
+  href="/Riya_portfolio/Riya_Resume.pdf"
+  target="_blank"
+  className="px-8 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:text-slate-900 transition-colors"
+>
+  Download Resume
+</motion.a>
         </motion.div>
 
         <motion.div
